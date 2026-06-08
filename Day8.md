@@ -153,7 +153,8 @@ The application is fully responsive and can be opened directly in any browser.
 
 ### Dashboard Overview
 
-<img width="1262" height="932" alt="Screenshot 2026-06-08 220630" src="https://github.com/user-attachments/assets/93d03396-26dc-44cc-abe3-801a8a57f976" />
+<img width="1266" height="922" alt="Screenshot 2026-06-08 220616" src="https://github.com/user-attachments/assets/92f474b4-ac06-4bd1-a98b-d16360d595fb" />
+
 
 ### Charts & Visualizations
 
